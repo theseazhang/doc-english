@@ -127,3 +127,35 @@ function sortAllDicts() {
 }
 
 // sortAllDicts();
+
+function top4000SortByLetter() {
+  let items = JSON.parse(fs.readFileSync("data/front-end-words.json"));
+  items = items.slice(0, 4000);
+  for (let index = 0; index < items.length; index++) {
+    items[index][2] = "";
+  }
+  items.sort((a, b) => {
+    const w1 = a[0];
+    const w2 = b[0];
+    if (w1 < w2) return -1;
+    if (w1 > w2) return 1;
+    return 0;
+  });
+  fs.writeFileSync("data/top4000-sort-by-letter.json", JSON.stringify(items));
+  console.log(`top 4000 sorted !`);
+}
+
+//top4000SortByLetter();
+
+function addChild(path) {
+  let tab = JSON.parse(fs.readFileSync(path));
+  tab.forEach((element) => {
+    if (!element[3]) {
+      element[3] = ["", "", ""];
+    }
+  });
+
+  fs.writeFileSync(path, JSON.stringify(tab));
+}
+
+addChild("data/days/group10.json");

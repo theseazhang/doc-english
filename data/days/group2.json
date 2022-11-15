@@ -1,0 +1,357 @@
+[
+  ["although", 36, "虽然"],
+  ["ambiguous", 4, "模糊的", ["an ambiguous key sequence"]],
+  [
+    "among",
+    19,
+    "从...之中",
+    [
+      "among the drop-down list",
+      "The value should be a string among the following possible options"
+    ]
+  ],
+  [
+    "amount",
+    87,
+    "数量",
+    [
+      "the least amount of JavaScript",
+      "a large amount of changes",
+      "the minimal amount of CSS",
+      "the maximum amount of time"
+    ]
+  ],
+  [
+    "analysis",
+    6,
+    "分析(过去的解释)",
+    [
+      "very complex analysis",
+      "the details of the analysis",
+      "a comprehensive analysis",
+      "static analysis",
+      "code analysis"
+    ]
+  ],
+  [
+    "analytics",
+    4,
+    "分析（未来的预测）",
+    ["adding analytics", "Google Analytics"]
+  ],
+  [
+    "analyze",
+    3,
+    "分析",
+    [
+      "analyze the SEO of the application content",
+      "analyze past measurements",
+      "statically analyze"
+    ]
+  ],
+  [
+    "ancestor",
+    3,
+    "原型、祖先",
+    ["an ancestor component", "their closest common ancestor", "your ancestor"]
+  ],
+  ["animated", 6, "动画", ["animated images", "Animated GIF"]],
+  [
+    "animation",
+    7,
+    "动画",
+    ["a CSS animation", "Animation Events", "an `enter` animation"]
+  ],
+  [
+    "animations",
+    7,
+    "动画",
+    ["Triggering imperative animations", "complex animations"]
+  ],
+  [
+    "annotation",
+    3,
+    "注释",
+    [
+      "this annotation",
+      "regardless of the annotation",
+      "the `@flow` annotation"
+    ]
+  ],
+  ["annotations", 4, "注释", ["Flow annotations", "Type Annotations"]],
+  [
+    "announce",
+    3,
+    "通知",
+    [
+      "announce new experiments",
+      "announce the page title",
+      "the page name to announce"
+    ]
+  ],
+  [
+    "announced",
+    4,
+    "通知",
+    [
+      "announced to assistive technology",
+      "are announced in both the terminal and in the administration panel",
+      "announced Hooks"
+    ]
+  ],
+  [
+    "annoying",
+    3,
+    "恼人的",
+    [
+      "This performance problem is so annoying to users",
+      "This is not only annoying",
+      "It's also annoying",
+      "This can become particularly annoying"
+    ]
+  ],
+  [
+    "anonymous",
+    6,
+    "匿名的",
+    [
+      "anonymous components",
+      "this anonymous program",
+      "omit this to make it anonymous"
+    ]
+  ],
+  ["anymore", 5, "不再", ["This query should not be used anymore"]],
+  ["anyway", 3, "然而", ["the user will not see anyway", "rethink it anyway"]],
+  [
+    "apart",
+    3,
+    "分离",
+    [
+      "Apart from `development` and `production` environments",
+      "You can further break them apart into smaller reducers"
+    ]
+  ],
+  [
+    "appear",
+    43,
+    "出现",
+    [
+      "that file will appear in the debug area",
+      "The following variables may appearto be global",
+      "the provider should appear on your admin login page"
+    ]
+  ],
+  ["appearing", 5, "出现", ["appearing in the value assigned"]],
+  [
+    "appears",
+    7,
+    "出现",
+    [
+      "it will affect how large the image appears",
+      " appears in the bottom right corner of the page",
+      "whenever a filename appears or disappears in the directory",
+      "A URL appears at the top of the window"
+    ]
+  ],
+  ["argument", 328, "参数", ["a single argument", "The second argument"]],
+  ["arguments", 156, "参数", ["List of string arguments"]],
+  ["arrow", 13, "箭头", ["arrow function", "Right arrow"]],
+  [
+    "applicable",
+    8,
+    "适用的",
+    ["This is not applicable", "Only applicable to deflate algorithm"]
+  ],
+  [
+    "approach",
+    55,
+    "方法",
+    ["Next takes a different approach", "The second approach"]
+  ],
+  [
+    "approaches",
+    7,
+    "方法",
+    [
+      "React has two different approaches to dealing with form inputs",
+      "a few common approaches"
+    ]
+  ],
+  ["appropriate", 49, "相应的", ["the appropriate status code"]],
+  [
+    "arbitrary",
+    354,
+    "任意",
+    [
+      "may be used to trigger arbitrary command execution",
+      "report arbitrary message data for diagnostics purposes",
+      "an arbitrary point"
+    ]
+  ],
+  ["architecture", 7, "架构", ["CPU architecture", "React Fiber Architecture"]],
+  ["arrives", 6, "到达", ["when data arrives on the socket"]],
+  ["arriving", 3, "到达", ["The data arriving from the secondary thread"]],
+  ["ascending", 12, "升序", ["from 1 to 1,000,000 in ascending order"]],
+  ["aside", 5, "除了", ["aside from this"]],
+  [
+    "aspect",
+    11,
+    "宽高，方便",
+    ["aspect ratio", "The most important aspect of"]
+  ],
+  [
+    "aspects",
+    7,
+    "方面",
+    ["One of the pleasant aspects of using markdown", "a few important aspects"]
+  ],
+  ["assert", 6, "断言"],
+  ["asserting", 3, "断言", ["asserting on their output"]],
+  ["assertion", 26, "断言", ["In strict assertion mode"]],
+  ["assertions", 7, "断言", ["import assertions", "make assertions on root"]],
+  ["asset", 8, "资产", ["An individual asset can be deleted"]],
+  [
+    "assets",
+    17,
+    "资源",
+    ["Persisting cached assets", "static assets", "The number of assets"]
+  ],
+  ["assign", 29, "声明", ["we should assign NULL to it"]],
+  ["assigned", 61, "声明", ["a default error message is assigned"]],
+  [
+    "assigning",
+    15,
+    "声明",
+    [
+      "Assigning properties to the top-level `this`",
+      "Upon assigning a value to the port"
+    ]
+  ],
+  [
+    "assignment",
+    4,
+    "声明",
+    [
+      "Prevent assignment to the `module` variable",
+      "Expression assignment to _ now disabled"
+    ]
+  ],
+  ["assigns", 5, "声明", ["assigns IDs to incoming HTTP requests"]],
+  [
+    "assist",
+    7,
+    "协助",
+    [
+      "to assist the preload code",
+      "Several community tools are available to assist you"
+    ]
+  ],
+  ["assistive", 5, "辅助的", ["other assistive technology"]],
+  [
+    "associate",
+    12,
+    "关联、绑定",
+    [
+      "These classes are used to associate state",
+      "that can associate names with addresses"
+    ]
+  ],
+  [
+    "associated",
+    157,
+    "关联、绑定",
+    [
+      "Associated with a route based on their file name",
+      "The message associated with the error"
+    ]
+  ],
+  [
+    "associating",
+    4,
+    "关联、绑定",
+    [
+      "have the same goal of associating a network name with a network address",
+      "The sequence number helps in associating the report dump with the runtime state"
+    ]
+  ],
+  [
+    "assume",
+    32,
+    "假设",
+    [
+      "These steps assume that",
+      "we'll assume you have a basic understanding of the JavaScript language"
+    ]
+  ],
+  [
+    "assumed",
+    8,
+    "假设",
+    [
+      "`error` is assumed to be omitted",
+      "Earlier versions of Node.js incorrectly assumed that"
+    ]
+  ],
+  [
+    "assumes",
+    16,
+    "假设",
+    [
+      "your code assumes a custom thenable implementation",
+      "This document also assumes"
+    ]
+  ],
+  ["assuming", 14, "假设", ["Assuming the following two Next.js pages"]],
+  [
+    "assumptions",
+    5,
+    "假设",
+    [
+      "without making assumptions about what other pages added",
+      "based on two assumptions"
+    ]
+  ],
+  [
+    "asymmetric",
+    10,
+    "非对称",
+    [
+      "a symmetric or asymmetric key",
+      "private (asymmetric) keys",
+      "public (asymmetric) keys"
+    ]
+  ],
+  [
+    "asynchronous",
+    145,
+    "异步的",
+    ["asynchronous operations", "an asynchronous function"]
+  ],
+  [
+    "asynchronously",
+    45,
+    "异步的 adv",
+    ["asynchronously fetch some data", "either synchronously or asynchronously"]
+  ],
+  [
+    "attach",
+    27,
+    "附加",
+    [
+      "attach multiple pictures to the restaurant",
+      "attach a ref directly to it"
+    ]
+  ],
+  ["attached", 52, "附加", ["the listener is attached"]],
+  ["attaches", 7, "附加", ["after React attaches the ref"]],
+  [
+    "attaching",
+    9,
+    "附加",
+    [
+      "allows attaching Chrome DevTools to Node.js",
+      "attaching a listener",
+      "creating and attaching the database"
+    ]
+  ]
+]

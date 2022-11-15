@@ -1,0 +1,400 @@
+[
+  ["attacker", 5, "攻击", ["an attacker", "a remote attacker"]],
+  [
+    "attacks",
+    11,
+    "攻击",
+    [
+      "cross-site scripting (XSS) attacks",
+      "clickjacking attacks",
+      "code injection attacks"
+    ]
+  ],
+  [
+    "attempt",
+    124,
+    "尝试",
+    [
+      "Next.js will attempt to re-generate the page",
+      "Node.js will first attempt to locate and load modules",
+      "the operating system will attempt to bind to a random port"
+    ]
+  ],
+  [
+    "attempted",
+    11,
+    "尝试",
+    [
+      "No mapping will be attempted",
+      "an action is attempted at an incorrect time",
+      "it has attempted to perform an instruction"
+    ]
+  ],
+  [
+    "attempting",
+    43,
+    "尝试",
+    [
+      "from attempting to guess the type of content",
+      "Attempting to fill a non-zero length buffer",
+      "Attempting to set a header field name"
+    ]
+  ],
+  [
+    "attempts",
+    40,
+    "尝试",
+    [
+      "it attempts to reuse a connection",
+      "The Strapi team will not support such attempts"
+    ]
+  ],
+  [
+    "attribute",
+    117,
+    "属性",
+    ["an href attribute", "a special string attribute"]
+  ],
+  [
+    "attributes",
+    55,
+    "属性",
+    ["Custom attributes are allowed", "There are many DOM attributes"]
+  ],
+  ["augment", 3, "增加", ["augment it", "augment components"]],
+  ["auth", 9, "登录", ["Strapi provider auth description"]],
+  [
+    "authenticated",
+    17,
+    "登录",
+    [
+      "an authenticated encryption mode",
+      "Sets header information for authenticated requests",
+      "the authenticated user"
+    ]
+  ],
+  [
+    "authentication",
+    67,
+    "登录",
+    [
+      "Learn about authentication patterns",
+      "Authentication verifies",
+      "authentication cookies"
+    ]
+  ],
+  ["author", 7, "作者", ["removed by its author", "Picture of the author"]],
+  [
+    "authoring",
+    3,
+    "创作",
+    [
+      "Authoring in markdown is an intuitive way to write content",
+      "Authoring Practices"
+    ]
+  ],
+  [
+    "authority",
+    10,
+    "授权",
+    ["Certificate Authority", "start of authority records"]
+  ],
+  [
+    "authorization",
+    15,
+    "授权",
+    ["authorization controls", "bypasses the authorization system"]
+  ],
+  [
+    "authorized",
+    8,
+    "授权",
+    [
+      "perform authorized requests",
+      "Visit the Reddit authorized applications preferences page"
+    ]
+  ],
+  ["authors", 9, "作者", ["Addon authors", "Package authors"]],
+  [
+    "automate",
+    4,
+    "自动",
+    [
+      "lets you automate Chromium",
+      "automate the conversion",
+      "automate some of the migration steps"
+    ]
+  ],
+  [
+    "automated",
+    4,
+    "自动",
+    [
+      "this command starts an automated watcher for JSX",
+      "apply vast automated changes",
+      "to handle automated SSL"
+    ]
+  ],
+  [
+    "automatic",
+    31,
+    "自动",
+    ["Automatic CI/CD", "Automatic Setup", "an automatic code formatter"]
+  ],
+  [
+    "automatically",
+    284,
+    "自动地",
+    [
+      "automatically optimized",
+      "your static assets are automatically detected and served"
+    ]
+  ],
+  [
+    "available",
+    561,
+    "可用的",
+    ["see available transforms below", "the following properties are available"]
+  ],
+  [
+    "average",
+    6,
+    "平均",
+    ["Getting the average likes of open restaurants", "The average duration"]
+  ],
+  [
+    "avoid",
+    129,
+    "避免",
+    [
+      "Avoid using the `asPath` value",
+      "To avoid the above pitfalls",
+      "To avoid duplicate tags"
+    ]
+  ],
+  [
+    "avoided",
+    6,
+    "避免",
+    ["This property use should be avoided", "This can be avoided"]
+  ],
+  [
+    "avoiding",
+    15,
+    "避免",
+    [
+      "avoiding interactions in community spaces",
+      "avoiding mismatches",
+      "Avoiding duplicate warnings"
+    ]
+  ],
+  [
+    "avoids",
+    9,
+    "避免",
+    [
+      "avoids affecting bounce rate",
+      "This avoids shipping large images to devices",
+      "This mechanism avoids the need for a server-side session cache"
+    ]
+  ],
+  [
+    "awaited",
+    5,
+    "等待",
+    [
+      "all awaited return values",
+      "a chunk awaited return value",
+      "The return value of foo will be awaited"
+    ]
+  ],
+  [
+    "awaiting",
+    6,
+    "等待",
+    [
+      "Awaiting multiple events",
+      "awaiting use by the agent ",
+      "order the operations by awaiting the results"
+    ]
+  ],
+  ["awaits", 4, "等待", ["Awaits the `asyncFn` promise"]],
+  [
+    "aware",
+    22,
+    "注意",
+    [
+      "you must be aware of the URL to its admin panel ",
+      "Be aware that",
+      "The context-aware addon"
+    ]
+  ],
+  [
+    "backslash",
+    5,
+    "反斜杠",
+    [
+      "a drive path without a backslash",
+      "slash and backslash",
+      "extra backslash"
+    ]
+  ],
+  [
+    "backward",
+    18,
+    "向后",
+    [
+      "For backward compatibility",
+      "Non-backward compatible changes",
+      "the forward slash and backward slash"
+    ]
+  ],
+  [
+    "backwards",
+    4,
+    "向后",
+    [
+      "Next.js provides full backwards compatibility",
+      "backwards-compatible",
+      "To maintain backwards compatibility"
+    ]
+  ],
+  [
+    "bailing",
+    4,
+    "救助",
+    ["Bailing out of a state update", "before bailing out"]
+  ],
+  [
+    "behave",
+    32,
+    "行为、表现",
+    [
+      "how your application will behave",
+      "Example of code that will not behave as expected",
+      "your app will behave the same way between the development and production builds"
+    ]
+  ],
+  [
+    "behaves",
+    35,
+    "行为、表现",
+    [
+      "that behaves as a wrapper",
+      "jsdom behaves like a regular browser",
+      "the test runner behaves as follows"
+    ]
+  ],
+  [
+    "behavior",
+    229,
+    "行为、表现",
+    [
+      "a different cache behavior",
+      "the legacy behavior",
+      "Existing components will maintain the same behavior"
+    ]
+  ],
+  [
+    "behaviors",
+    11,
+    "行为、表现",
+    [
+      "all of the asynchronous behaviors of the platform",
+      "different behaviors",
+      "platform-specific behaviors"
+    ]
+  ],
+  ["beneficial", 3, "益处", ["be very beneficial"]],
+  [
+    "benefit",
+    9,
+    "益处",
+    [
+      "we benefit from the ES6 module system",
+      "as a benefit",
+      "has another benefit"
+    ]
+  ],
+  [
+    "benefits",
+    16,
+    "益处",
+    [
+      "One of the main benefits of this feature",
+      "includes a number of benefits",
+      "Sass support has the same benefits"
+    ]
+  ],
+  [
+    "bet",
+    3,
+    "打赌",
+    ["rewrite their code to bet on it", "why the community can bet on React"]
+  ],
+  [
+    "beyond",
+    11,
+    "超出",
+    [
+      "beyond those which are required",
+      "beyond JavaScript",
+      "beyond the default plugins listed below"
+    ]
+  ],
+  [
+    "binaries",
+    17,
+    "二进制",
+    [
+      "supported binaries",
+      "The following binaries",
+      "the official release binaries"
+    ]
+  ],
+  [
+    "binary",
+    43,
+    "二进制",
+    ["the `.wasm` binary", "their binary contents", "the Node.js binary"]
+  ],
+  [
+    "bind",
+    30,
+    "绑定",
+    [
+      "the method will bind the socket to the address",
+      "It will bind to port 80",
+      "Bind methods in the constructor"
+    ]
+  ],
+  [
+    "binding",
+    29,
+    "绑定",
+    [
+      "binding to a port",
+      "Binding the inspector to a public IP",
+      "Perform lazy binding"
+    ]
+  ],
+  [
+    "bindings",
+    4,
+    "绑定",
+    [
+      "updates all the live bindings",
+      "exposes native C++ bindings",
+      "all other key bindings"
+    ]
+  ],
+  [
+    "binds",
+    3,
+    "绑定",
+    [
+      "Binds the given function to the current execution context",
+      "it binds all methods"
+    ]
+  ]
+]

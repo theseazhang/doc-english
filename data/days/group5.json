@@ -1,0 +1,205 @@
+[
+  ["candidate", 4, "候选者", ["it is a good candidate"]],
+  [
+    "candidates",
+    3,
+    "候选者",
+    [
+      "Some examples of scripts that are good candidates",
+      "Think of these as release candidates"
+    ]
+  ],
+  ["canonical", 7, "规范", ["canonical name CNAME"]],
+  [
+    "capabilities",
+    9,
+    "能力",
+    [
+      "a way to extend Strapi's capabilities",
+      "Providers add an extension to the core capabilities of the plugin",
+      "dives deeper into the new capabilities unlocked by Hooks"
+    ]
+  ],
+  [
+    "capability",
+    3,
+    "能力",
+    [
+      "the capability to",
+      "This creates a type-checking capability of a higher fidelity"
+    ]
+  ],
+  [
+    "capable",
+    5,
+    "有能力",
+    [
+      "the server is capable of providing authoritative responses",
+      "older browsers are capable of interpreting"
+    ]
+  ],
+  ["capital", 6, "大写字母", ["a capital letter", "note the capital 'W' here"]],
+  [
+    "capitalized",
+    5,
+    "大写字母",
+    [
+      "JSX type can be a capitalized variable",
+      "This is a component and should be capitalized"
+    ]
+  ],
+  [
+    "capture",
+    35,
+    "捕获",
+    [
+      "aim to capture the user experience of a web page",
+      "A regex like string can be used to capture a specific part of the value"
+    ]
+  ],
+  [
+    "captured",
+    9,
+    "捕获",
+    [
+      "without the output being captured",
+      "The number of frames captured by the stack trace",
+      "it allows captured TLS traffic to be decrypted"
+    ]
+  ],
+  [
+    "carries",
+    4,
+    "带着、带来",
+    [
+      "carries with it",
+      "carries out its operation",
+      "any change to React carries some risk"
+    ]
+  ],
+  ["categories", 25, "分类", ["the Categories list", "each categories"]],
+  [
+    "categorized",
+    3,
+    "分类",
+    [
+      "Client-side validation is further categorized as",
+      "events have been categorized into four areas"
+    ]
+  ],
+  ["category", 52, "分类", ["a list of comma-separated category names"]],
+  ["caution", 10, "谨慎", ["Use with caution", "Take caution"]],
+  [
+    "caveat",
+    11,
+    "警告",
+    ["One caveat", "There is one caveat to the above example"]
+  ],
+  [
+    "caveats",
+    8,
+    "警告",
+    ["caveats with callback refs", "Module caching caveats"]
+  ],
+  ["celsius", 6, "摄氏度", ["Celsius to Fahrenheit conversion °C to °F"]],
+  [
+    "certain",
+    82,
+    "某些、特定",
+    ["certain events occur", "In certain cases", "a certain event occurs"]
+  ],
+  ["certificate", 108, "证书", ["The SHA-256 fingerprint of this certificate"]],
+  [
+    "certificates",
+    14,
+    "证书",
+    [
+      "certificate validation is disabled for TLS connections",
+      "Checks whether the certificate matches the given email address"
+    ]
+  ],
+  [
+    "chain",
+    25,
+    "链",
+    [
+      "that will continue the middleware chain",
+      "the first promise of a chain was created",
+      "Defer to the next hook in the chain"
+    ]
+  ],
+  [
+    "channel",
+    88,
+    "频道、通道",
+    ["an IPC communication channel", "The Next channel is a prerelease channel"]
+  ],
+  [
+    "channels",
+    13,
+    "频道、渠道",
+    [
+      "many top-level channels to report messages",
+      "Built-in Channels",
+      "you can use one of these channels to ask a question"
+    ]
+  ],
+  [
+    "chapter",
+    4,
+    "章节",
+    ["next chapter", "This is the first chapter in a step-by-step guide"]
+  ],
+  ["chapters", 3, "章节", ["a list of all its chapters"]],
+  ["character", 89, "字符", ["ASCII character code", "character encoding"]],
+  [
+    "characters",
+    91,
+    "字符",
+    ["The following characters", "Unicode characters"]
+  ],
+  ["chronological", 7, "时间先后", ["in chronological order"]],
+  [
+    "chunk",
+    105,
+    "块",
+    ["a small chunk of memory", "This sends a chunk of the response body"]
+  ],
+  [
+    "chunked",
+    4,
+    "块",
+    ["the default chunked encoding", "HTTP Chunked transfer encoding"]
+  ],
+  [
+    "chunks",
+    33,
+    "块",
+    [
+      "Need to keep around a few small chunks of memory",
+      "allow you to flush your application in smaller chunks"
+    ]
+  ],
+  [
+    "cipher",
+    50,
+    "密码",
+    [
+      "cipher and decipher",
+      "an alternative default TLS cipher list",
+      "a given cipher"
+    ]
+  ],
+  ["ciphers", 21, "密码", ["the ciphers block size", "TLSv1.3 ciphers"]],
+  [
+    "ciphertext",
+    4,
+    "密文",
+    [
+      "The IV is usually passed along with the ciphertext",
+      "the generated ciphertext"
+    ]
+  ],
+  ["circular", 7, "循环", ["Objects with circular references"]],
+  ["claims", 3, "声称", ["somebody claims an issue"]]
+]

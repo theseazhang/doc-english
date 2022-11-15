@@ -1,0 +1,281 @@
+[
+  [
+    "block",
+    68,
+    "块，阻塞",
+    [
+      "will block rendering",
+      "that will block the Node.js event loop",
+      "standard block padding"
+    ]
+  ],
+  [
+    "blocking",
+    18,
+    "块，阻塞",
+    [
+      "there are no blocking data requirements",
+      "avoid blocking overall execution of the Node.js application",
+      "This prevents a head-of-line blocking situation"
+    ]
+  ],
+  [
+    "blocks",
+    26,
+    "块，阻塞",
+    [
+      "The number of blocks allocated for this file",
+      "Blocks until there are no active connections",
+      "this method blocks while resolving the associated a numeric ID"
+    ]
+  ],
+  ["blurring", 3, "模糊", ["the focusing or blurring events"]],
+  [
+    "boilerplate",
+    3,
+    "样板、模板",
+    [
+      "reduce the boilerplate code",
+      "To avoid some of the boilerplate",
+      "replace the boilerplate content in the file"
+    ]
+  ],
+  [
+    "boost",
+    5,
+    "提升",
+    [
+      "leading to a meaningful boost in LCP",
+      "to boost performance",
+      "it brings a big productivity boost both to the Facebook engineers and to the community"
+    ]
+  ],
+  [
+    "boot",
+    5,
+    "启动",
+    [
+      "boot instantly",
+      "cold boot",
+      "Starting Strapi on boot and persisting service between reboots"
+    ]
+  ],
+  [
+    "booting",
+    3,
+    "启动",
+    [
+      "booting up the HTTP server",
+      "Several actions happen while Strapi is booting"
+    ]
+  ],
+  [
+    "bootstrap",
+    7,
+    "启动、引导",
+    [
+      "Explicitly tell the CLI to bootstrap the app using npm",
+      "the bootstrap function",
+      "It allows you to quickly bootstrap a custom Strapi app"
+    ]
+  ],
+  [
+    "bootstrapping",
+    7,
+    "启动、引导",
+    [
+      "If bootstrapping has not yet finished",
+      "which the Node.js process completed bootstrapping",
+      "bootstrapping within a worker is done within the event loop"
+    ]
+  ],
+  [
+    "bound",
+    42,
+    "bind过去分词",
+    [
+      "bound to another context",
+      "A bound datagram socket",
+      "Returns the bound address"
+    ]
+  ],
+  [
+    "boundaries",
+    21,
+    "边界、界限",
+    ["neighboring boundaries", "error boundaries"]
+  ],
+  [
+    "boundary",
+    14,
+    "边界、界限",
+    ["the Suspense boundary is resolved", "an error boundary"]
+  ],
+  [
+    "bounds",
+    6,
+    "边界、界限",
+    [
+      "the bounds of a `TypedArray` view",
+      "its behavior on out-of-bounds access",
+      "An operation outside the bounds of a `Buffer` was attempted"
+    ]
+  ],
+  ["braces", 7, "括号", ["placing the JavaScript within curly braces"]],
+  [
+    "bracket",
+    7,
+    "括号",
+    ["you can use the bracket syntax", "using LHS bracket notation"]
+  ],
+  ["brackets", 103, "括号", ["square brackets", "double brackets"]],
+  [
+    "bring",
+    7,
+    "带...到",
+    [
+      "bring your pages to life",
+      "to bring in additional data",
+      "bring your own buffer"
+    ]
+  ],
+  [
+    "brings",
+    8,
+    "引入",
+    [
+      "that brings a long-time Next.js feature",
+      "JavaScript brings interactivity to our web applications"
+    ]
+  ],
+  [
+    "bubbling",
+    6,
+    "冒泡",
+    ["bubbling the blur", "This includes event bubbling"]
+  ],
+  [
+    "bulk",
+    5,
+    "大量、批量",
+    ["A bulk of complexity", "bulk operations", "To bulk move assets"]
+  ],
+  [
+    "bumped",
+    4,
+    "撞",
+    [
+      "The minimum Node.js version has been bumped from 12.22.0 to 14.0.0",
+      "If we bumped the major version for all of these changes"
+    ]
+  ],
+  [
+    "bypass",
+    10,
+    "绕过",
+    [
+      "to bypass Static Generation",
+      "automatically bypass Image Optimization",
+      "to bypass the local file system cache"
+    ]
+  ],
+  ["bypasses", 4, "绕过", ["it bypasses the `require` cache"]],
+  [
+    "calculate",
+    4,
+    "计算",
+    ["to calculate percentiles", "Calculate a rolling hash"]
+  ],
+  [
+    "calculated",
+    25,
+    "计算",
+    ["a calculated distance", "The calculated ratio", "the calculated amount"]
+  ],
+  [
+    "calculates",
+    7,
+    "计算",
+    [
+      "Calculates the HMAC digest of all of the data ",
+      "Calculates the amount of time"
+    ]
+  ],
+  [
+    "calculating",
+    4,
+    "计算",
+    [
+      "have finished calculating on the page",
+      "for calculating the initial state"
+    ]
+  ],
+  [
+    "calculations",
+    4,
+    "计算",
+    ["doing any calculations", "How to memoize calculations"]
+  ],
+  ["callback", 384, "回调", ["A callback function", "the native callback"]],
+  [
+    "callbacks",
+    51,
+    "回调",
+    [
+      "Call AsyncHooks destroy callbacks",
+      "Allow callbacks of this AsyncHook instance to call"
+    ]
+  ],
+  [
+    "called",
+    652,
+    "调用",
+    ["this means `getStaticProps` will be called 500 times"]
+  ],
+  [
+    "caller",
+    5,
+    "调用者",
+    ["use `this` from the caller", "defined by the caller of this component"]
+  ],
+  [
+    "calling",
+    319,
+    "调用",
+    ["calling this route using next/link", "make calling context easier to see"]
+  ],
+  ["calls", 195, "调用", ["Modify your API calls", "Blocking calls"]],
+  ["calm", 12, "宁静", ["A World of Calm"]],
+  [
+    "cancelation",
+    4,
+    "取消",
+    [
+      "Cancelation is best effort",
+      "A utility class used to signal cancelation in selected `Promise`-based APIs."
+    ]
+  ],
+  [
+    "canceled",
+    7,
+    "取消",
+    ["An HTTP/2 ping was canceled", "Waiting for the event was canceled"]
+  ],
+  [
+    "cancelled",
+    8,
+    "取消",
+    [
+      "Indicates if the navigation was cancelled",
+      "the work needs to be cancelled",
+      "The operation was cancelled"
+    ]
+  ],
+  ["cancelling", 4, "取消", ["Cancelling timers", "cancelling the subtest"]],
+  [
+    "cancels",
+    7,
+    "取消",
+    ["This API cancels queued work", "Cancels a `Timeout` object", ""]
+  ]
+]
