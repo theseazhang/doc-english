@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "flexsearch": "^0.7.31",
     "got": "^12.5.2",
     "node-fetch": "^3.2.10"
   }

@@ -1,105 +1,609 @@
 [
-  ["concatenated", 11, "", ["", "", ""]],
-  ["concatenation", 5, "", ["", "", ""]],
-  ["concept", 25, "", ["", "", ""]],
-  ["concepts", 12, "", ["", "", ""]],
-  ["conceptually", 4, "", ["", "", ""]],
-  ["concern", 3, "", ["", "", ""]],
-  ["concerned", 4, "", ["", "", ""]],
-  ["concerns", 7, "", ["", "", ""]],
-  ["conclusion", 19, "", ["", "", ""]],
-  ["concurrent", 23, "", ["", "", ""]],
-  ["concurrently", 6, "", ["", "", ""]],
-  ["condition", 47, "", ["", "", ""]],
-  ["conditional", 20, "", ["", "", ""]],
-  ["conditionally", 335, "", ["", "", ""]],
-  ["conditions", 42, "", ["", "", ""]],
-  ["confident", 5, "", ["", "", ""]],
-  ["config", 47, "", ["", "", ""]],
-  ["configs", 4, "", ["", "", ""]],
-  ["configurable", 10, "", ["", "", ""]],
-  ["configuration", 311, "", ["", "", ""]],
-  ["configurations", 32, "", ["", "", ""]],
-  ["configure", 100, "", ["", "", ""]],
-  ["configured", 91, "", ["", "", ""]],
-  ["configures", 16, "", ["", "", ""]],
-  ["configuring", 27, "", ["", "", ""]],
-  ["confirm", 6, "", ["", "", ""]],
-  ["confirmation", 6, "", ["", "", ""]],
-  ["conflict", 4, "", ["", "", ""]],
-  ["conflicts", 9, "", ["", "", ""]],
-  ["confuse", 4, "", ["", "", ""]],
-  ["confused", 5, "", ["", "", ""]],
-  ["confusing", 6, "", ["", "", ""]],
-  ["confusion", 4, "", ["", "", ""]],
-  ["conjunction", 12, "", ["", "", ""]],
-  ["connect", 42, "", ["", "", ""]],
-  ["connected", 70, "", ["", "", ""]],
-  ["connecting", 10, "", ["", "", ""]],
-  ["connection", 112, "", ["", "", ""]],
-  ["connections", 62, "", ["", "", ""]],
-  ["connects", 6, "", ["", "", ""]],
-  ["consent", 3, "", ["", "", ""]],
-  ["consequences", 5, "", ["", "", ""]],
-  ["consider", 115, "", ["", "", ""]],
-  ["considerations", 8, "", ["", "", ""]],
-  ["considered", 43, "", ["", "", ""]],
-  ["considering", 3, "", ["", "", ""]],
-  ["consist", 7, "", ["", "", ""]],
-  ["consistency", 6, "", ["", "", ""]],
-  ["consistent", 16, "", ["", "", ""]],
-  ["consistently", 5, "", ["", "", ""]],
-  ["consisting", 6, "", ["", "", ""]],
-  ["consists", 14, "", ["", "", ""]],
-  ["console", 32, "", ["", "", ""]],
-  ["constant", 6, "", ["", "", ""]],
-  ["constants", 50, "", ["", "", ""]],
-  ["constrained", 6, "", ["", "", ""]],
-  ["constraint", 4, "", ["", "", ""]],
-  ["constraints", 9, "", ["", "", ""]],
-  ["construct", 25, "", ["", "", ""]],
-  ["constructed", 16, "", ["", "", ""]],
-  ["constructing", 9, "", ["", "", ""]],
-  ["construction", 6, "", ["", "", ""]],
-  ["constructor", 72, "", ["", "", ""]],
-  ["constructors", 5, "", ["", "", ""]],
-  ["consult", 5, "", ["", "", ""]],
-  ["consume", 43, "", ["", "", ""]],
-  ["consumed", 10, "", ["", "", ""]],
-  ["consumer", 6, "", ["", "", ""]],
-  ["consumers", 14, "", ["", "", ""]],
-  ["consuming", 19, "", ["", "", ""]],
-  ["consumption", 4, "", ["", "", ""]],
-  ["contact", 3, "", ["", "", ""]],
-  ["contain", 166, "", ["", "", ""]],
-  ["contained", 30, "", ["", "", ""]],
-  ["container", 64, "", ["", "", ""]],
-  ["containers", 10, "", ["", "", ""]],
-  ["containing", 204, "", ["", "", ""]],
-  ["contains", 165, "", ["", "", ""]],
-  ["content", 191, "", ["", "", ""]],
-  ["contents", 59, "", ["", "", ""]],
-  ["context", 191, "", ["", "", ""]],
-  ["contexts", 12, "", ["", "", ""]],
-  ["contextual", 4, "", ["", "", ""]],
-  ["continuation", 7, "", ["", "", ""]],
-  ["continue", 65, "", ["", "", ""]],
-  ["continuing", 17, "", ["", "", ""]],
-  ["continuous", 9, "", ["", "", ""]],
-  ["continuously", 3, "", ["", "", ""]],
-  ["contract", 4, "", ["", "", ""]],
-  ["contracted", 6, "", ["", "", ""]],
-  ["contrast", 10, "", ["", "", ""]],
-  ["contribute", 6, "", ["", "", ""]],
-  ["contributing", 6, "", ["", "", ""]],
-  ["contribution", 4, "", ["", "", ""]],
-  ["contributions", 5, "", ["", "", ""]],
-  ["contributor", 3, "", ["", "", ""]],
-  ["contributors", 4, "", ["", "", ""]],
-  ["control", 145, "", ["", "", ""]],
-  ["controlled", 25, "", ["", "", ""]],
-  ["controller", 20, "", ["", "", ""]],
-  ["controllers", 19, "", ["", "", ""]],
-  ["controlling", 12, "", ["", "", ""]],
-  ["controls", 25, "", ["", "", ""]]
+  [
+    "concatenated",
+    11,
+    "串联",
+    ["values are concatenated", "are not concatenated"]
+  ],
+  [
+    "concatenation",
+    5,
+    "串联",
+    ["that is the concatenation of all arguments separated by spaces"]
+  ],
+  [
+    "concept",
+    25,
+    "概念",
+    [
+      "concept of hierarchy",
+      "next.js now has the concept of page-level configuration",
+      "a more widely known concept of components"
+    ]
+  ],
+  [
+    "concepts",
+    12,
+    "概念",
+    [
+      "learn concepts step by step",
+      "advanced concepts",
+      "hooks don't replace your knowledge of react concepts"
+    ]
+  ],
+  [
+    "conceptually",
+    4,
+    "概念上",
+    [
+      "conceptually, components are like javascript functions",
+      "conceptually, react does work in two phases",
+      "it conceptually makes sense for the filter text"
+    ]
+  ],
+  [
+    "concern",
+    3,
+    "顾虑",
+    [
+      "the biggest maintainability concern",
+      "its specific concern",
+      "avoiding the security concern"
+    ]
+  ],
+  [
+    "concerned",
+    4,
+    "顾虑",
+    [
+      "we are much less concerned with the implementation being elegant",
+      "as far as react is concerned"
+    ]
+  ],
+  [
+    "concerns",
+    7,
+    "顾虑",
+    [
+      "performance concerns around inline functions in react",
+      "maintainability concerns",
+      "security concerns",
+      "cross-cutting concerns"
+    ]
+  ],
+  ["conclusion", 19, "结论", ["conclusion"]],
+  [
+    "concurrent",
+    23,
+    "并发",
+    [
+      "concurrent modifications on the same file",
+      "number of concurrent  calls."
+    ]
+  ],
+  [
+    "concurrently",
+    6,
+    "并发",
+    [
+      "if the file is not modified concurrently",
+      "using the same file descriptor concurrently for multiple streams"
+    ]
+  ],
+  ["condition", 47, "条件", ["Some condition", "condition in wide usage"]],
+  [
+    "conditional",
+    20,
+    "条件",
+    ["conditional statements", "conditional rendering", "conditional exports"]
+  ],
+  [
+    "conditionally",
+    335,
+    "条件",
+    [
+      "conditionally firing an effect",
+      "another method for conditionally rendering elements",
+      "conditionally add styles"
+    ]
+  ],
+  ["conditions", 42, "条件", ["any of the following conditions"]],
+  [
+    "confident",
+    5,
+    "自信",
+    ["we are confident", "if you don't feel very confident"]
+  ],
+  [
+    "configurable",
+    10,
+    "配置",
+    [
+      "configurable and writeable, but not enumerable",
+      "set of configurable options",
+      "this is configurable"
+    ]
+  ],
+  [
+    "configuration",
+    311,
+    "配置",
+    ["configuration options", "configuration files", "configuration reference"]
+  ],
+  [
+    "configurations",
+    32,
+    "配置",
+    [
+      "project-specific configurations",
+      "build configurations differ for each case",
+      "dumps configurations to a file",
+      "available configurations"
+    ]
+  ],
+  [
+    "configure",
+    100,
+    "配置",
+    ["configure the typescript compiler options", "configure content sources"]
+  ],
+  [
+    "configured",
+    91,
+    "配置",
+    ["Next.js caching is automatically configured for you"]
+  ],
+  ["configures", 16, "配置", ["automatically configures webpack"]],
+  ["configuring", 27, "配置", ["configuring the typescript compiler"]],
+  [
+    "confirm",
+    6,
+    "确认",
+    ["you can confirm that static pages have successfully revalidated"]
+  ],
+  ["confirmation", 6, "确认", ["email address confirmation"]],
+  ["conflict", 4, "争执、冲突", ["it can conflict with such environments"]],
+  [
+    "conflicts",
+    9,
+    "争执、冲突",
+    ["it will create conflicts", "the easiest way to avoid conflicts"]
+  ],
+  [
+    "confuse",
+    4,
+    "困惑",
+    [
+      "classes confuse both people and machines",
+      "one might confuse elements with a more widely known concept of components",
+      "it'll be a mistake and might confuse users"
+    ]
+  ],
+  [
+    "confused",
+    5,
+    "困惑",
+    [
+      "whenever you get confused by something in javascript",
+      "if you get confused, look for a yellow box like this"
+    ]
+  ],
+  [
+    "confusing",
+    6,
+    "困惑",
+    [
+      "this form may seem confusing or unnecessary",
+      "if you found some part confusing"
+    ]
+  ],
+  ["confusion", 4, "困惑", ["one common confusion", "avoid confusion"]],
+  [
+    "conjunction",
+    12,
+    "协同",
+    ["start the Next.js production server in conjunction with Cypress"]
+  ],
+  [
+    "connect",
+    42,
+    "联系",
+    ["connect to a service", "to connect on the socket :"]
+  ],
+  [
+    "connected",
+    70,
+    "联系",
+    ["you'll see the commits deployed to the Vercel projects you've connected"]
+  ],
+  [
+    "connecting",
+    10,
+    "联系",
+    [
+      "for example, connecting it to a store",
+      "key with every connecting machine",
+      "if this tcp socket is in connecting status"
+    ]
+  ],
+  [
+    "connection",
+    112,
+    "联系",
+    [
+      "connection to the child",
+      "connection problems",
+      "connection for dynamically generated content"
+    ]
+  ],
+  [
+    "connections",
+    62,
+    "联系",
+    ["connections will be allowed to close as usual", "connections closed"]
+  ],
+  ["connects", 6, "联系", ["connects a session to the inspector back-end"]],
+  ["consent", 3, "同意", ["cookie consent managers"]],
+  [
+    "consequences",
+    5,
+    "后果",
+    [
+      "important consequences",
+      "have disastrous consequences for your application"
+    ]
+  ],
+  [
+    "consider",
+    115,
+    "考虑",
+    ["consider the following page", "consider this variable declaration"]
+  ],
+  [
+    "considerations",
+    8,
+    "注意事项",
+    [
+      "considerations when transferring typedarrays and buffers",
+      "accessibility considerations",
+      "performance considerations"
+    ]
+  ],
+  [
+    "considered",
+    43,
+    "视为",
+    [
+      "This value is considered fresh for ten seconds",
+      "this file will be considered a route"
+    ]
+  ],
+  [
+    "considering",
+    3,
+    "考虑",
+    [
+      "it is worth considering a few tradeoffs",
+      "we are open to considering other build flags"
+    ]
+  ],
+  [
+    "consist",
+    7,
+    "由...构成",
+    [
+      "The file should consist of one or more trusted certificates in PEM format"
+    ]
+  ],
+  [
+    "consistency",
+    6,
+    "一致",
+    [
+      "to ensure consistency across all pods",
+      "for api consistency",
+      "this would break the consistency"
+    ]
+  ],
+  [
+    "consistent",
+    16,
+    "一致",
+    [
+      "in order to be consistent with accessing the properties on dom nodes from js",
+      "to achieve consistent results"
+    ]
+  ],
+  [
+    "consistently",
+    5,
+    "一致",
+    [
+      "debug consistently across devices and operating systems",
+      "refs work consistently across platforms"
+    ]
+  ],
+  ["consisting", 6, "组成", ["a mask consisting of the bitwise"]],
+  ["consists", 14, "构成", ["consists of the following keys"]],
+  [
+    "constant",
+    6,
+    "常量",
+    ["next.js uses a constant id generated at build time"]
+  ],
+  ["constants", 50, "常量", ["crypto constants"]],
+  [
+    "constrained",
+    6,
+    "受约束于",
+    [
+      "images are constrained to the parent width",
+      "use a constrained set of tailwind classes "
+    ]
+  ],
+  [
+    "constraint",
+    4,
+    "约束",
+    [
+      "system constraint",
+      "an important design constraint of react",
+      "avoid version constraint errors"
+    ]
+  ],
+  [
+    "constraints",
+    9,
+    "约束",
+    [
+      "addressing bandwidth constraints",
+      "how to break out of those constraints when necessary",
+      "be used to enforce constraints on code"
+    ]
+  ],
+  [
+    "construct",
+    25,
+    "构造",
+    [
+      "construct a context-aware addon",
+      "construct a new  object from an existing tcp socket"
+    ]
+  ],
+  [
+    "constructed",
+    16,
+    "构造",
+    [
+      "it can be constructed in a variety of ways",
+      "when a class is constructed "
+    ]
+  ],
+  [
+    "constructing",
+    9,
+    "构造",
+    [
+      "constructing a url from component parts and getting the constructed string",
+      "after constructing an instance of the native class",
+      "constructing a channel directly"
+    ]
+  ],
+  [
+    "construction",
+    6,
+    "构造",
+    [
+      "class construction and destruction",
+      "simplified construction",
+      "during construction of a brotli stream"
+    ]
+  ],
+  ["constructor", 72, "构造", ["constructor function"]],
+  [
+    "constructors",
+    5,
+    "构造",
+    ["four following constructors", "when using pre-es6 style constructors"]
+  ],
+  ["consult", 5, "查阅", ["Consult the detailed Corepack documentation"]],
+  [
+    "consume",
+    43,
+    "消费",
+    [
+      "This is for IDEs and other utilities that consume the documentation",
+      "because unused sockets consume OS resources"
+    ]
+  ],
+  ["consumed", 10, "消费", ["the output will not be consumed"]],
+  [
+    "consumer",
+    6,
+    "消费",
+    [
+      "The utility consumer functions provide common options for consuming streams"
+    ]
+  ],
+  [
+    "consumers",
+    14,
+    "消费",
+    ["limit the consumers of an API to a specific set of hosts"]
+  ],
+  [
+    "consuming",
+    19,
+    "消费",
+    [
+      "consuming multiple contexts",
+      "consuming readable streams with async iterators"
+    ]
+  ],
+  [
+    "consumption",
+    4,
+    "消费",
+    ["the default multi-line format designed for human consumption"]
+  ],
+  ["contain", 166, "包含", ["contain valid utf-8 data"]],
+  [
+    "contained",
+    30,
+    "包含",
+    [
+      "It's contained in a try catch block",
+      "A string that contained unescaped characters was received"
+    ]
+  ],
+  ["container", 64, "容器", ["build your container", "run your container"]],
+  ["containers", 10, "容器", ["supports Docker containers"]],
+  [
+    "containing",
+    204,
+    "包含",
+    ["containing an element", "containing a pointer to a database handle"]
+  ],
+  ["contains", 165, "包含", ["contains all configured locales"]],
+  ["content", 191, "内容", ["JavaScript for pre-rendering dynamic content"]],
+  ["contents", 59, "内容", ["contents of the file"]],
+  ["context", 191, "上下文、语境", ["in the context of a Strapi v3 project"]],
+  ["contexts", 12, "上下文、语境", ["from multiple contexts"]],
+  [
+    "contextual",
+    4,
+    "上下文、语境",
+    [
+      "provides application-specific contextual input",
+      "you'll be greeted with a contextual overlay"
+    ]
+  ],
+  ["continuation", 7, "继续", ["a promise continuation executes"]],
+  [
+    "continue",
+    65,
+    "继续",
+    ["continue to accept connections", "continue the next loop iteration"]
+  ],
+  [
+    "continuing",
+    17,
+    "继续",
+    ["continuing the above example", "continuing the loop"]
+  ],
+  [
+    "continuous",
+    9,
+    "持续",
+    ["continuous integration (CI)", "continuous development (CD)"]
+  ],
+  [
+    "continuously",
+    3,
+    "继续",
+    [
+      "our react applications continuously modify the html dom",
+      "it continuously touches all heap pages"
+    ]
+  ],
+  [
+    "contract",
+    4,
+    "合约、约定",
+    [
+      "keeping the package contract clear for consumers",
+      "we will extend our internal instance contract"
+    ]
+  ],
+  [
+    "contracted",
+    6,
+    "感染",
+    [
+      "a lung disease contracted from the inhalation of very fine silica particles"
+    ]
+  ],
+  ["contrast", 10, "对比度", ["contrast-50", "in contrast"]],
+  ["contribute", 6, "贡献", ["how to contribute"]],
+  [
+    "contributing",
+    6,
+    "贡献",
+    ["by contributing to react", "make contributing to this project"]
+  ],
+  [
+    "contribution",
+    4,
+    "贡献",
+    [
+      "contribution prerequisites",
+      "open-source & contribution",
+      "our contribution process"
+    ]
+  ],
+  [
+    "contributions",
+    5,
+    "贡献",
+    [
+      "your contributions will be licensed under its mit license",
+      "we love to accept your contributions to make it even better."
+    ]
+  ],
+  [
+    "contributor",
+    3,
+    "贡献者",
+    [
+      "contributor license agreement (cla)",
+      "it eases new contributor onboarding"
+    ]
+  ],
+  [
+    "contributors",
+    4,
+    "贡献者",
+    [
+      "contributors send pull requests",
+      "a mobile application for contributors only"
+    ]
+  ],
+  [
+    "control",
+    145,
+    "控制",
+    ["control the stack order", "control the padding on all sides"]
+  ],
+  ["controlled", 25, "控制", ["controlled components"]],
+  [
+    "controller",
+    20,
+    "控制",
+    ["testing  endpoint controller", "a new controller can be implemented"]
+  ],
+  [
+    "controllers",
+    19,
+    "控制",
+    [
+      "controllers and middlewares",
+      "controllers are javascript files that contain a set of methods",
+      "controllers are declared and attached to a route"
+    ]
+  ],
+  [
+    "controlling",
+    12,
+    "控制",
+    ["controlling grid element placement", "controlling backdrop brightness"]
+  ],
+  [
+    "controls",
+    25,
+    "控制",
+    [
+      "controls the contents of the container node you pass in",
+      "this header controls dns prefetching"
+    ]
+  ]
 ]

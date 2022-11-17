@@ -36,6 +36,42 @@ function wordCount(res) {
   return items;
 }
 
+function spiltDoc(str) {
+  const res = [];
+  const tab = str.split("\n");
+  for (let line of tab) {
+    line = line.trim();
+    if (line.length < 4) continue;
+    res.push(line);
+  }
+
+  return res;
+}
+
+function splitTolines(res) {
+  let tmp = [];
+  res.forEach((str) => {
+    let res = spiltDoc(str);
+    res.forEach((i) => {
+      tmp.push(i);
+    });
+  });
+
+  return [...new Set(tmp)];
+}
+
+async function splitDocs() {
+  const res1 = await nextParse();
+  const res2 = await reactParse();
+  const res3 = await tailwindcssParse();
+  const res4 = await nodejsParse();
+  const res5 = await strapiParse();
+  const res = [...res1, ...res2, ...res3, ...res4, ...res5];
+  const lines = splitTolines(res);
+  fs.writeFileSync("data/doc-lines.txt", lines.join("\n"));
+  console.log(`doc lines is splited ! get ${lines.length} lines.`);
+}
+
 async function runNext() {
   const res = await nextParse();
   const words = wordCount(res);
@@ -158,4 +194,6 @@ function addChild(path) {
   fs.writeFileSync(path, JSON.stringify(tab));
 }
 
-addChild("data/days/group10.json");
+//addChild("data/days/group10.json");
+
+// await splitDocs();

@@ -1,107 +1,438 @@
 [
-  ["close", 65, "", ["", "", ""]],
-  ["closed", 73, "", ["", "", ""]],
-  ["closely", 5, "", ["", "", ""]],
-  ["closer", 10, "", ["", "", ""]],
-  ["closes", 25, "", ["", "", ""]],
-  ["closest", 11, "", ["", "", ""]],
-  ["closing", 22, "", ["", "", ""]],
-  ["closure", 5, "", ["", "", ""]],
-  ["closures", 3, "", ["", "", ""]],
-  ["cloud", 20, "", ["", "", ""]],
-  ["cluster", 13, "", ["", "", ""]],
-  ["cms", 19, "", ["", "", ""]],
-  ["code", 664, "", ["", "", ""]],
-  ["codebase", 20, "", ["", "", ""]],
-  ["codebases", 5, "", ["", "", ""]],
-  ["codemod", 10, "", ["", "", ""]],
-  ["codemods", 5, "", ["", "", ""]],
-  ["codes", 31, "", ["", "", ""]],
-  ["coerce", 4, "", ["", "", ""]],
-  ["coerced", 23, "", ["", "", ""]],
-  ["coercion", 6, "", ["", "", ""]],
-  ["cognito", 10, "", ["", "", ""]],
-  ["cold", 4, "", ["", "", ""]],
-  ["collect", 9, "", ["", "", ""]],
-  ["collected", 23, "", ["", "", ""]],
-  ["collecting", 3, "", ["", "", ""]],
-  ["collection", 243, "", ["", "", ""]],
-  ["collections", 6, "", ["", "", ""]],
-  ["collisions", 4, "", ["", "", ""]],
-  ["colon", 6, "", ["", "", ""]],
-  ["color", 144, "", ["", "", ""]],
-  ["colored", 5, "", ["", "", ""]],
-  ["colors", 58, "", ["", "", ""]],
-  ["column", 29, "", ["", "", ""]],
-  ["columns", 17, "", ["", "", ""]],
-  ["combination", 23, "", ["", "", ""]],
-  ["combinations", 6, "", ["", "", ""]],
-  ["combine", 13, "", ["", "", ""]],
-  ["combined", 16, "", ["", "", ""]],
-  ["combines", 4, "", ["", "", ""]],
-  ["combining", 6, "", ["", "", ""]],
-  ["come", 30, "", ["", "", ""]],
-  ["comes", 41, "", ["", "", ""]],
-  ["comfortable", 10, "", ["", "", ""]],
-  ["coming", 14, "", ["", "", ""]],
-  ["command", 111, "", ["", "", ""]],
-  ["commands", 19, "", ["", "", ""]],
-  ["comment", 7, "", ["", "", ""]],
-  ["commit", 11, "", ["", "", ""]],
-  ["commitment", 3, "", ["", "", ""]],
-  ["committed", 11, "", ["", "", ""]],
-  ["committing", 3, "", ["", "", ""]],
-  ["common", 152, "", ["", "", ""]],
-  ["commonjs", 93, "", ["", "", ""]],
-  ["commonly", 38, "", ["", "", ""]],
-  ["communicate", 11, "", ["", "", ""]],
-  ["communication", 22, "", ["", "", ""]],
-  ["communications", 4, "", ["", "", ""]],
-  ["community", 40, "", ["", "", ""]],
-  ["company", 3, "", ["", "", ""]],
-  ["compare", 18, "", ["", "", ""]],
-  ["compared", 23, "", ["", "", ""]],
-  ["compares", 11, "", ["", "", ""]],
-  ["comparing", 11, "", ["", "", ""]],
-  ["comparison", 22, "", ["", "", ""]],
-  ["compatibility", 48, "", ["", "", ""]],
-  ["compatible", 27, "", ["", "", ""]],
-  ["compilation", 9, "", ["", "", ""]],
-  ["compile", 33, "", ["", "", ""]],
-  ["compiled", 61, "", ["", "", ""]],
-  ["compiler", 26, "", ["", "", ""]],
-  ["compiles", 22, "", ["", "", ""]],
-  ["compiling", 18, "", ["", "", ""]],
-  ["complement", 18, "", ["", "", ""]],
-  ["complete", 213, "", ["", "", ""]],
-  ["completed", 36, "", ["", "", ""]],
-  ["completely", 42, "", ["", "", ""]],
-  ["completeness", 3, "", ["", "", ""]],
-  ["completes", 6, "", ["", "", ""]],
-  ["completing", 4, "", ["", "", ""]],
-  ["completion", 31, "", ["", "", ""]],
-  ["complex", 47, "", ["", "", ""]],
-  ["complexity", 6, "", ["", "", ""]],
-  ["compliance", 4, "", ["", "", ""]],
-  ["compliant", 5, "", ["", "", ""]],
-  ["complicated", 10, "", ["", "", ""]],
-  ["component", 688, "", ["", "", ""]],
-  ["components", 362, "", ["", "", ""]],
-  ["composable", 4, "", ["", "", ""]],
-  ["compose", 10, "", ["", "", ""]],
-  ["composed", 5, "", ["", "", ""]],
-  ["composite", 15, "", ["", "", ""]],
-  ["composition", 10, "", ["", "", ""]],
-  ["comprehensive", 7, "", ["", "", ""]],
-  ["compress", 11, "", ["", "", ""]],
-  ["compressed", 10, "", ["", "", ""]],
-  ["compresses", 3, "", ["", "", ""]],
-  ["compressing", 4, "", ["", "", ""]],
-  ["compression", 26, "", ["", "", ""]],
-  ["computation", 4, "", ["", "", ""]],
-  ["computations", 4, "", ["", "", ""]],
-  ["compute", 10, "", ["", "", ""]],
-  ["computed", 20, "", ["", "", ""]],
-  ["computer", 3, "", ["", "", ""]],
-  ["computes", 5, "", ["", "", ""]]
+  [
+    "closely",
+    5,
+    "密切",
+    ["We are closely in touch with many users of React outside of Facebook"]
+  ],
+  [
+    "closer",
+    10,
+    "更接近",
+    [
+      "Let's take a closer look at each of the props",
+      "This makes your test run closer to how React works in the browser"
+    ]
+  ],
+  [
+    "closest",
+    11,
+    "最接近的",
+    ["the closest package", "their closest shared ancestor"]
+  ],
+  [
+    "closure",
+    5,
+    "闭包",
+    [
+      "requires using either a closure or a bound function",
+      "the cleanup function will capture it in a closure",
+      "we've created a closure"
+    ]
+  ],
+  [
+    "closures",
+    3,
+    "闭包",
+    ["the raw performance of closures", "Hooks embrace JavaScript closures"]
+  ],
+  [
+    "cluster",
+    13,
+    "集群",
+    ["To reuse sessions across load balancers or cluster workers"]
+  ],
+  [
+    "codebase",
+    20,
+    "代码库",
+    ["Codemods are transformations that run on your codebase programmatically"]
+  ],
+  [
+    "codebases",
+    5,
+    "代码库",
+    ["Smaller, more cohesive and maintainable codebases"]
+  ],
+  [
+    "codemod",
+    10,
+    "codemod 代码重构",
+    [
+      "To execute the codemod",
+      "You can find the codemods that we released in the react-codemod repository"
+    ]
+  ],
+  [
+    "codemods",
+    5,
+    "codemod 代码重构",
+    ["A codemod is available to automatically upgrade your code"]
+  ],
+  [
+    "coerce",
+    4,
+    "强制",
+    [
+      "The JavaScript value to coerce",
+      "Coerce the chunk to a number if necessary"
+    ]
+  ],
+  ["coerced", 23, "强制", ["it is coerced to an unsigned integer"]],
+  [
+    "coercion",
+    6,
+    "强制",
+    [
+      "no implicit coercion of the offset",
+      "If the result of coercion is `NaN` or `0`",
+      "Implicit coercion of objects with own `toString` property"
+    ]
+  ],
+  ["collect", 9, "收集", ["be used to collect performance metrics"]],
+  ["collected", 23, "收集", ["garbage collected"]],
+  [
+    "collecting",
+    3,
+    "收集",
+    ["You can start collecting your Real Experience Score"]
+  ],
+  [
+    "collection",
+    243,
+    "集合",
+    [
+      "the Next.js examples collection",
+      "garbage collection",
+      "A collection of all the standard HTTP response status codes"
+    ]
+  ],
+  [
+    "collections",
+    6,
+    "集合",
+    [
+      "to be aware of the Backbone models and collections",
+      "you create a collections type or a single type",
+      "You can build collections of elements"
+    ]
+  ],
+  [
+    "collisions",
+    4,
+    "冲突",
+    ["the risk of collisions", "worrying about collisions", "avoid collisions"]
+  ],
+  [
+    "colon",
+    6,
+    "冒号",
+    [
+      "followed by a colon",
+      "if the filename contains a colon",
+      "a colon-delimited list of absolute paths"
+    ]
+  ],
+  [
+    "column",
+    29,
+    "列",
+    ["a 2-column layout", "a line number and column number"]
+  ],
+  [
+    "columns",
+    17,
+    "列",
+    [
+      "Try to construct a table with  columns and rows",
+      "Only applies to number columns"
+    ]
+  ],
+  [
+    "combination",
+    23,
+    "组合、结合",
+    [
+      "the best possible combination of React and Web APIs",
+      "In combination with environment variables this pattern becomes really powerful",
+      "To add a new entry and display its combination of fields"
+    ]
+  ],
+  [
+    "combinations",
+    6,
+    "组合",
+    ["a list of key combinations", "The following key combinations in the REPL"]
+  ],
+  [
+    "combine",
+    13,
+    "合并、组合",
+    ["combine the contents of 4 files", "ou can combine them in different ways"]
+  ],
+  ["combined", 16, "组合", ["This flag cannot be combined"]],
+  [
+    "combines",
+    4,
+    "合并",
+    ["Combines two or more streams into a `Duplex` stream"]
+  ],
+  [
+    "combining",
+    6,
+    "结合",
+    [
+      "combining the rich interactivity of client-side apps with the improved performance of traditional server rendering"
+    ]
+  ],
+  [
+    "comfortable",
+    10,
+    "舒适",
+    [
+      "When you feel comfortable with TypeScript",
+      "you're getting comfortable with build tools"
+    ]
+  ],
+  [
+    "comment",
+    7,
+    "注释、评论",
+    [
+      "place the following comment at the top of your CSS file",
+      "adding a comment",
+      "please leave a comment"
+    ]
+  ],
+  [
+    "commitment",
+    3,
+    "承诺",
+    ["Learn more about our commitment to stability and incremental migration"]
+  ],
+  [
+    "committed",
+    11,
+    "承诺、专注、提交",
+    [
+      "The Next.js team is committed to making Next.js accessible to all developers",
+      "save the last committed value",
+      "we are committed to providing the best experience to our users"
+    ]
+  ],
+  [
+    "committing",
+    3,
+    "提交",
+    [
+      "before committing",
+      "you should avoid committing the dump file into a versioning system"
+    ]
+  ],
+  [
+    "communicate",
+    11,
+    "交流",
+    [
+      "we communicate through our main channels",
+      "will communicate reasons for moderation decisions when appropriate"
+    ]
+  ],
+  [
+    "communication",
+    22,
+    "交流",
+    ["mid-communication", "allowing communication with the parent thread"]
+  ],
+  [
+    "communications",
+    4,
+    "交流",
+    [
+      "an active communications session between an HTTP/2 client and server",
+      "two-way communications channel"
+    ]
+  ],
+  [
+    "community",
+    40,
+    "社区",
+    ["you're always welcome to ask our community on GitHub Discussions", "", ""]
+  ],
+  [
+    "comparison",
+    22,
+    "比较",
+    [
+      "Prints the changed output for comparison",
+      "Comparison details",
+      "A comparison between the WHATWG and legacy APIs"
+    ]
+  ],
+  [
+    "compatibility",
+    48,
+    "兼容性",
+    [
+      "Next.js provides full backwards compatibility",
+      " Browser compatibility depends on the particular metric",
+      "Compatibility API"
+    ]
+  ],
+  [
+    "compatible",
+    27,
+    "兼容的",
+    ["A browser-compatible implementation of Response"]
+  ],
+  [
+    "compilation",
+    9,
+    "编译",
+    [
+      "Next.js has adopted webpack 5 as the default for compilation in Next.js",
+      "After compilation"
+    ]
+  ],
+  ["compile", 33, "编译", ["to compile JavaScript/TypeScript"]],
+  [
+    "compiled",
+    61,
+    "编译",
+    ["The application should be compiled with `next build`"]
+  ],
+  ["compiler", 26, "编译器", ["Next.js now uses a Rust-based compiler"]],
+  [
+    "compiles",
+    22,
+    "编译",
+    ["Next.js compiles CSS for its built-in CSS support using PostCSS"]
+  ],
+  ["compiling", 18, "编译", ["when compiling individual files"]],
+  [
+    "complement",
+    18,
+    "补全",
+    [
+      "The i18n routing support is currently meant to complement existing i18n library"
+    ]
+  ],
+  [
+    "completeness",
+    3,
+    "完整性",
+    [
+      "is provided purely for completeness",
+      "It's only mentioned here for completeness"
+    ]
+  ],
+  ["completion", 31, "完成", ["the completion callback", "auto-completion"]],
+  [
+    "complex",
+    47,
+    "复杂",
+    ["it requires very complex computations", "A more complex user experience"]
+  ],
+  [
+    "complexity",
+    6,
+    "复杂性",
+    [
+      "adds complexity to responding to errors",
+      "As your application grows in size and complexity"
+    ]
+  ],
+  [
+    "complicated",
+    10,
+    "复杂的",
+    [
+      "implementing addons is complicated",
+      "a simplified abstraction for the more complicated internal state management",
+      ""
+    ]
+  ],
+  [
+    "compliance",
+    4,
+    "符合",
+    [
+      "in compliance with",
+      "Security, Identity & Compliance",
+      "Because of the need for standard compliance"
+    ]
+  ],
+  [
+    "compliant",
+    5,
+    "符合",
+    [
+      "The Next.js runtime is Strict Mode-compliant",
+      "a FIPS compliant crypto provider"
+    ]
+  ],
+  ["component", 688, "组件", ["every page exports a component"]],
+  [
+    "components",
+    362,
+    "组件",
+    [
+      "lazy-load components",
+      "Transforms anonymous components into named components"
+    ]
+  ],
+  [
+    "composable",
+    4,
+    "组合",
+    ["components describe any composable behavior", "", ""]
+  ],
+  [
+    "compose",
+    10,
+    "组合",
+    ["Compose a file path to a package.json", "easy to compose together"]
+  ],
+  [
+    "composed",
+    5,
+    "组合",
+    ["depends on whether the string uses composed or decomposed characters"]
+  ],
+  [
+    "composite",
+    15,
+    "组合",
+    ["build a composite filter", "For composite components"]
+  ],
+  ["composition", 10, "组合", ["show how we can solve them with composition"]],
+  [
+    "comprehensive",
+    7,
+    "综合、完整",
+    ["comprehensive analysis", "There is no comprehensive list of such methods"]
+  ],
+  [
+    "compress",
+    11,
+    "压缩",
+    [
+      "to compress rendered content and static files",
+      "Compress data using the Brotli algorithm"
+    ]
+  ],
+  ["compressed", 10, "压缩", ["Assets are compressed", "a compressed file"]],
+  ["compresses", 3, "压缩", ["it compresses 20% smaller compared to WebP"]],
+  ["compression", 26, "压缩", ["Next.js provides gzip compression"]],
+  ["computation", 4, "计算", ["no further computation will occur"]],
+  ["computations", 4, "计算", ["it requires very complex computations"]],
+  [
+    "compute",
+    10,
+    "计算",
+    ["Starts a timer that can be used to compute the duration of an operation"]
+  ],
+  ["computed", 20, "计算", ["a new value will be computed on every render"]],
+  ["computer", 3, "计算机", ["your own computer"]],
+  ["computes", 5, "计算", ["computes an output"]]
 ]

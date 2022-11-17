@@ -1,107 +1,315 @@
 [
-  ["convenience", 11, "", ["", "", ""]],
-  ["convenient", 17, "", ["", "", ""]],
-  ["convention", 21, "", ["", "", ""]],
-  ["conversion", 9, "", ["", "", ""]],
-  ["convert", 56, "", ["", "", ""]],
-  ["converted", 40, "", ["", "", ""]],
-  ["converting", 22, "", ["", "", ""]],
-  ["converts", 23, "", ["", "", ""]],
-  ["cookie", 17, "", ["", "", ""]],
-  ["cookies", 22, "", ["", "", ""]],
-  ["copied", 19, "", ["", "", ""]],
-  ["copies", 17, "", ["", "", ""]],
-  ["copy", 105, "", ["", "", ""]],
-  ["copying", 9, "", ["", "", ""]],
-  ["core", 86, "", ["", "", ""]],
-  ["corepack", 13, "", ["", "", ""]],
-  ["corner", 5, "", ["", "", ""]],
-  ["correct", 42, "", ["", "", ""]],
-  ["correctly", 25, "", ["", "", ""]],
-  ["correspond", 18, "", ["", "", ""]],
-  ["corresponding", 118, "", ["", "", ""]],
-  ["corresponds", 34, "", ["", "", ""]],
-  ["cost", 11, "", ["", "", ""]],
-  ["could", 172, "", ["", "", ""]],
-  ["count", 35, "", ["", "", ""]],
-  ["counted", 4, "", ["", "", ""]],
-  ["counter", 20, "", ["", "", ""]],
-  ["counting", 8, "", ["", "", ""]],
-  ["country", 3, "", ["", "", ""]],
-  ["counts", 3, "", ["", "", ""]],
-  ["couple", 3, "", ["", "", ""]],
-  ["course", 7, "", ["", "", ""]],
-  ["cover", 21, "", ["", "", ""]],
-  ["coverage", 9, "", ["", "", ""]],
-  ["covered", 11, "", ["", "", ""]],
-  ["covers", 14, "", ["", "", ""]],
-  ["cpu", 36, "", ["", "", ""]],
-  ["crash", 7, "", ["", "", ""]],
-  ["crashes", 3, "", ["", "", ""]],
-  ["crashing", 6, "", ["", "", ""]],
-  ["create", 547, "", ["", "", ""]],
-  ["created", 352, "", ["", "", ""]],
-  ["creates", 159, "", ["", "", ""]],
-  ["creating", 162, "", ["", "", ""]],
-  ["creation", 43, "", ["", "", ""]],
-  ["credentials", 6, "", ["", "", ""]],
-  ["credit", 4, "", ["", "", ""]],
-  ["critical", 9, "", ["", "", ""]],
-  ["cron", 3, "", ["", "", ""]],
-  ["cropped", 3, "", ["", "", ""]],
-  ["cross", 13, "", ["", "", ""]],
-  ["crucial", 3, "", ["", "", ""]],
-  ["crud", 7, "", ["", "", ""]],
-  ["crypto", 41, "", ["", "", ""]],
-  ["cryptographic", 13, "", ["", "", ""]],
-  ["cryptographically", 9, "", ["", "", ""]],
-  ["css", 254, "", ["", "", ""]],
-  ["cup", 4, "", ["", "", ""]],
-  ["curious", 4, "", ["", "", ""]],
-  ["curly", 10, "", ["", "", ""]],
-  ["current", 383, "", ["", "", ""]],
-  ["currently", 139, "", ["", "", ""]],
-  ["cursor", 32, "", ["", "", ""]],
-  ["curve", 21, "", ["", "", ""]],
-  ["custom", 518, "", ["", "", ""]],
-  ["customizable", 8, "", ["", "", ""]],
-  ["customization", 12, "", ["", "", ""]],
-  ["customizations", 11, "", ["", "", ""]],
-  ["customize", 146, "", ["", "", ""]],
-  ["customized", 13, "", ["", "", ""]],
-  ["customizing", 217, "", ["", "", ""]],
-  ["cycle", 8, "", ["", "", ""]],
-  ["cypress", 8, "", ["", "", ""]],
-  ["dangerously", 3, "", ["", "", ""]],
-  ["dark", 180, "", ["", "", ""]],
-  ["dash", 18, "", ["", "", ""]],
-  ["dashboard", 5, "", ["", "", ""]],
-  ["data", 941, "", ["", "", ""]],
-  ["database", 77, "", ["", "", ""]],
-  ["databases", 5, "", ["", "", ""]],
-  ["datagram", 18, "", ["", "", ""]],
-  ["datatype", 4, "", ["", "", ""]],
-  ["date", 8, "", ["", "", ""]],
-  ["day", 6, "", ["", "", ""]],
-  ["deal", 3, "", ["", "", ""]],
-  ["dealing", 6, "", ["", "", ""]],
-  ["debouncing", 3, "", ["", "", ""]],
-  ["debra", 4, "", ["", "", ""]],
-  ["debug", 22, "", ["", "", ""]],
-  ["debugger", 12, "", ["", "", ""]],
-  ["debugging", 24, "", ["", "", ""]],
-  ["decide", 6, "", ["", "", ""]],
-  ["decides", 4, "", ["", "", ""]],
-  ["deciding", 4, "", ["", "", ""]],
-  ["decimal", 3, "", ["", "", ""]],
-  ["declaration", 12, "", ["", "", ""]],
-  ["declarations", 11, "", ["", "", ""]],
-  ["declarative", 12, "", ["", "", ""]],
-  ["declare", 21, "", ["", "", ""]],
-  ["declared", 17, "", ["", "", ""]],
-  ["declaring", 11, "", ["", "", ""]],
-  ["decode", 8, "", ["", "", ""]],
-  ["decoded", 8, "", ["", "", ""]],
-  ["decodes", 4, "", ["", "", ""]],
-  ["decoding", 24, "", ["", "", ""]]
+  [
+    "convenience",
+    11,
+    "便利",
+    ["For convenience", "Convenience method to create a `readline` interface"]
+  ],
+  ["convenient", 17, "方便", ["Next.js provides a convenient way"]],
+  [
+    "convention",
+    21,
+    "公约、惯例",
+    [
+      "By convention",
+      "This is a  based on the `transitionName` prop",
+      "To learn more about the reasoning behind this convention"
+    ]
+  ],
+  [
+    "conversion",
+    9,
+    "转换",
+    ["conversion from `fromEnc` to `toEnc` is not permitted"]
+  ],
+  [
+    "convert",
+    56,
+    "转换",
+    ["convert from node-api value to a primitive c type"]
+  ],
+  [
+    "converted",
+    40,
+    "转换",
+    ["The converted key and the uncompressed public key should be the same"]
+  ],
+  ["converting", 22, "转换", ["start converting files from `.js` to `.tsx`"]],
+  [
+    "converts",
+    23,
+    "转换",
+    ["This API converts the C `int64_t` type to the JavaScript `BigInt` type"]
+  ],
+  [
+    "correspond",
+    18,
+    "对应",
+    ["it will correspond to the name of the resource's constructor"]
+  ],
+  [
+    "corresponding",
+    118,
+    "对应",
+    ["the element corresponding to the LCP for the page"]
+  ],
+  ["corresponds", 34, "对应", ["The resolved path corresponds to a directory"]],
+  [
+    "couple",
+    3,
+    "一对",
+    ["you have a couple of options", "a couple limitations"]
+  ],
+  [
+    "course",
+    7,
+    "课程、当然、情况",
+    ["learn course", "Of course", "In the normal course of operations"]
+  ],
+  [
+    "cover",
+    21,
+    "覆盖、涉及",
+    [
+      "next/link should be able to cover most of your routing needs",
+      "we'll cover the building blocks of React later in our hands-on tutorial"
+    ]
+  ],
+  [
+    "coverage",
+    9,
+    "覆盖率、覆盖范围",
+    [
+      "on node 14.x coverage provider v8 offers good speed",
+      "the user wants to collect the coverage on demand"
+    ]
+  ],
+  [
+    "covered",
+    11,
+    "覆盖",
+    [
+      "changes to webpack config are not covered by semver",
+      "This guide has covered the following"
+    ]
+  ],
+  [
+    "covers",
+    14,
+    "涵盖",
+    [
+      "It is a modal that covers the webpage",
+      "Named exports detection covers many common export patterns"
+    ]
+  ],
+  ["crash", 7, "崩溃", ["cause the Node.js process to crash"]],
+  [
+    "crashes",
+    3,
+    "崩溃",
+    ["If any crashes or buggy behaviors occur when building a snapshot"]
+  ],
+  ["crashing", 6, "崩溃", ["In addition to preventing the page from crashing"]],
+  [
+    "credentials",
+    6,
+    "证书、凭据、授权书",
+    [
+      "crypto.Credentials",
+      "the correct authentication credentials",
+      "use environment specific credentials"
+    ]
+  ],
+  [
+    "critical",
+    9,
+    "关键、重要",
+    [
+      "This strategy should only be used for critical scripts",
+      "it is critical to close the descriptor when operations are completed"
+    ]
+  ],
+  [
+    "cropped",
+    3,
+    "裁剪",
+    ["be cropped to preserve aspect ratio", "Image files can also be cropped"]
+  ],
+  [
+    "cross",
+    13,
+    "跨",
+    ["cross-platform alternative api", "cross-site scripting (xss)"]
+  ],
+  [
+    "crucial",
+    3,
+    "关键",
+    ["This is crucial for gradual adoption", "it misses a crucial requirement"]
+  ],
+  ["crypto", 41, "加密", ["Web Crypto APIs"]],
+  [
+    "cryptographic",
+    13,
+    "加密",
+    ["cryptographic functionality", "cryptographic algorithm"]
+  ],
+  [
+    "cryptographically",
+    9,
+    "加密强度",
+    [
+      "Generates cryptographically strong pseudorandom data",
+      "at least 12 cryptographically random bytes"
+    ]
+  ],
+  ["curious", 4, "好奇", ["For curious readers", "You might be curious"]],
+  ["curly", 10, "弯曲的，卷曲的", ["curly braces"]],
+  [
+    "cursor",
+    32,
+    "光标、游标",
+    ["The cursor position", "to the left from cursor"]
+  ],
+  [
+    "curve",
+    21,
+    "曲线",
+    ["a list of available curve names", "each available elliptic curve"]
+  ],
+  ["custom", 518, "定制", ["custom error page"]],
+  [
+    "customizable",
+    8,
+    "定制",
+    [
+      "Colors are customizable",
+      "The Strapi Design System is fully customizable"
+    ]
+  ],
+  [
+    "customization",
+    12,
+    "定制",
+    [
+      "customization options",
+      "middlewares customization",
+      "admin panel customization"
+    ]
+  ],
+  [
+    "customizations",
+    11,
+    "定制、自定义",
+    ["Backend customizations", "extensive customizations are required"]
+  ],
+  [
+    "customize",
+    146,
+    "自定义",
+    [
+      "to customize the postcss configuration",
+      "to customize the 500 page",
+      "you can customize the dark mode"
+    ]
+  ],
+  [
+    "customized",
+    13,
+    "自定义",
+    [
+      "define the customized layouts ",
+      "be customized directly via the admin panel"
+    ]
+  ],
+  [
+    "customizing",
+    217,
+    "自定义",
+    [
+      "customizing babel config",
+      "customizing postcss config",
+      "customizing your theme"
+    ]
+  ],
+  [
+    "cycle",
+    8,
+    "循环、周期",
+    [
+      "environment life cycle apis",
+      "their entire life cycle",
+      "the life cycle of the child process"
+    ]
+  ],
+  [
+    "dash",
+    18,
+    "破折号、仪表",
+    ["script separated by a dash", "the dash modifier"]
+  ],
+  ["dashboard", 5, "仪表板", ["user dashboard pages"]],
+  ["datagram", 18, "数据报", ["datagram messages", "a bound datagram socket"]],
+  ["deal", 3, "处理、处置", ["Facebook teams don't have to deal with"]],
+  [
+    "dealing",
+    6,
+    "处理、处置",
+    [
+      "dealing with binary data directly",
+      "Dealing with immutable data in JavaScript"
+    ]
+  ],
+  [
+    "debouncing",
+    3,
+    "反抖动",
+    [
+      "Debouncing ensures that a function will not be executed",
+      "you would use with similar hooks that use debouncing or throttling"
+    ]
+  ],
+  ["decide", 6, "决定", ["We can decide what it takes as arguments"]],
+  [
+    "decides",
+    4,
+    "决定",
+    ["React decides whether an actual DOM update is necessary"]
+  ],
+  ["deciding", 4, "决定", ["Before deciding to use a custom server"]],
+  [
+    "decimal",
+    3,
+    "小数点、精度",
+    [
+      "number types: integer, biginteger, float, and decimal",
+      "it keeps the output rounded to the third decimal place"
+    ]
+  ],
+  ["declaration", 12, "声明", ["Consider this variable declaration"]],
+  [
+    "declarations",
+    11,
+    "声明",
+    ["the name of the file to contain the types declarations"]
+  ],
+  [
+    "declarative",
+    12,
+    "声明",
+    ["providing a declarative API for loading third-party scripts"]
+  ],
+  [
+    "declare",
+    21,
+    "声明",
+    ["a stream developer would declare a new JavaScript class"]
+  ],
+  [
+    "declared",
+    17,
+    "声明",
+    ["A reducer is declared as an object with this syntax"]
+  ],
+  ["declaring", 11, "声明", ["by declaring the policy implementation directly"]]
 ]
